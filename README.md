@@ -1,1 +1,6 @@
-# amazone-clone
+                       # amazone-clone                                                                                                                                                                                                                   
+             this is first pjoject                                                                                                                                                                                                          
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                       
+                                                                                                                                         
